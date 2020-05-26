@@ -1,3 +1,6 @@
 导入idea，就可以自动执行。
-方便老狗打断点测试
+
+mvn package 打包
+
+需要使用cc2 gadget
 
